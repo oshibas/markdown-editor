@@ -1,7 +1,12 @@
 {
     "name": "markdown-editor",
     "version": "1.0.0",
-    "scripts":{
-        "start":"echo 'Hello! package.json'"
+    "scripts": {
+        "start": "echo 'Hello! package.json'",
+        "build": "webpack --mode=production"
+    },
+    "dependencies": {
+        "webpack": "^5.88.2",
+        "webpack-cli": "^5.1.4"
     }
 }
