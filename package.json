@@ -10,7 +10,7 @@
     "@types/react": "17.0.53",
     "@types/react-dom": "17.0.18",
     "@types/react-router-dom": "5.3.3",
-    "@types/sanitize-html": "2.8.0",
+    "@types/sanitize-html": "2.11.0",
     "@types/styled-components": "5.1.26",
     "dexie": "3.2.3",
     "marked": "2.1.3",
