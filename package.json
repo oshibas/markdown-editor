@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@types/marked": "2.0.5",
-    "@types/react": "17.0.53",
+    "@types/react": "17.0.75",
     "@types/react-dom": "17.0.18",
     "@types/react-router-dom": "5.3.3",
     "@types/sanitize-html": "2.8.0",
